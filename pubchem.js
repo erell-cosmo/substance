@@ -22,6 +22,7 @@ async function fetchChunkCompoundsProperties(compoundsChunk) {
     `${PUBCHEM_API_SEARCH_URL}/InChIKey/${compoundsChunk.join(',')}/property/InChIKey,CanonicalSMILES,ExactMass/JSON`,
     {
       baseURL: PUBCHEM_API_BASE_URL,
+      timeout: 2000
     }
   );
 

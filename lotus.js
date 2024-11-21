@@ -13,7 +13,8 @@ async function fetchCompounds(plantName) {
       baseURL: LOTUS_API_BASE_URL,
       params: {
         query: plantName
-      }
+      },
+      timeout: 3000
     }
   );
   const compounds = data.naturalProducts.map(compound => compound.inchikey);
