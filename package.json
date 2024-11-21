@@ -1,0 +1,19 @@
+{
+  "name": "compounds",
+  "version": "0.1.0",
+  "description": "List compounds properties from a Lotus plant search",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "Lotus",
+    "PubChem"
+  ],
+  "author": "domfoy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21"
+  }
+}
