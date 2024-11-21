@@ -10,6 +10,12 @@ Returns a csv file. The columns are:
 - Exact Mass
 Each line is a compound returned by the lotus api for the input plant name
 
+# Debug
+```
+DEBUG=substance* node list.js <plant_name>
+```
+Will output on stderr debug logs.
+
 
 # Steps Overview
 1. query Lotus API
