@@ -1,7 +1,7 @@
 # Command
 
 ```
-list <plant_name>
+node list.js <plant_name>
 ```
 Returns a csv file. The columns are:
 - Name

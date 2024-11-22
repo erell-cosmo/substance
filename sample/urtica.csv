@@ -1,0 +1,40 @@
+superClass,class,name,ExactMass,CanonicalSMILES,inchikey
+Steroids,Stigmastane steroids,stigmast-5-en-3-ol,358.14163842,COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O,KZJWDPNRJALLNS-BWRKXDIJSA-N
+Steroids,Stigmastane steroids,"stigmast-5-en-3-ol, (3β)-",284.14124450,C1C(C(CO1)CC2=CC(=CC=C2)O)CC3=CC(=CC=C3)O,KZJWDPNRJALLNS-UHFFFAOYSA-N
+Triterpenoids,Ursane and Taraxastane triterpenoids,ursolic acid,584.42294564,CC1=CC(CC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC23C(CC(CC2(O3)C)O)(C)C)C)C)(C)C)O,WCGUUGGRBIKTOS-GPOJBZKASA-N
+Phenylpropanoids (C6-C3),Cinnamic acids and derivatives,chlorogenic acid,354.09508215,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,CWVRJTMFETXNAD-JUHZACGLSA-N
+Lignans,Furanoid lignans,"3,4-divanillyltetrahydrofuran",600.41786026,CC(=CC=CC=C(C)C=CC=C(C)C=CC12C(CC(CC1(O2)C)O)(C)C)C=CC=C(C)C=CC34C(CC(CC3(O4)C)O)(C)C,ROGUIJKVZZROIQ-UHFFFAOYSA-N
+Lignans,Furanoid lignans,"3-{[(3r,4r)-4-[(3-hydroxyphenyl)methyl]oxolan-3-yl]methyl}phenol",344.16237386,COC1=C(C=CC(=C1)CC2COCC2CC3=CC(=C(C=C3)O)OC)O,LLQYBPNZHZFNDC-HOTGVXAUSA-N
+Lignans,Furofuranoid lignans,(-)-pinoresinol,414.386166214,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,HGXBRUKMWQGOIE-NSMLZSOPSA-N
+Carotenoids (C40),"Carotenoids (C40, β-ε)",taraxanthin,456.36034539,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,DYUUPIKEWLHQGQ-FJOIUHRLSA-N
+Carotenoids (C40),"Carotenoids (C40, β-β)",violaxanthin,414.386166214,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,SZCBXWMUOPQSOX-WVJDLNGLSA-N
+,,choline,104.107539070,C[N+](C)(C)CCO,OEYIOHPDSNJKLS-UHFFFAOYSA-N
+,,"2-[(2e)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]-2-hydroxybutanedioic acid",178.062994177,COC1=C(C#CC(=C1)C=CCO)O,NHYPUVOSYZUDMG-DUXPYHPUSA-N
+Phenylethanoids (C6-C2),Phenylethanoids,homovanillyl alcohol,296.05321734,C1=CC(=C(C=C1C=CC(=O)C(CC(=O)O)(C(=O)O)O)O)O,XHUBSJRBOQIZNI-UHFFFAOYSA-N
+Lignans,Arylnaphthalene and aryltetralin lignans,"(6s,7s,8r)-8-(4-hydroxy-3-methoxyphenyl)-6,7-bis(hydroxymethyl)-3-methoxy-5,6,7,8-tetrahydronaphthalen-2-ol",358.14163842,COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O,OGFXBIXJCWAUCH-WAWZGNHOSA-N
+Lignans,Dibenzylbutane lignans,(-)-enterodiol,576.43898963,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC5C(C(C(C(O5)CO)O)O)O)C)C)C(C)C,DWONJCNDULPHLV-HOTGVXAUSA-N
+Steroids,Stigmastane steroids,sitogluside,358.14163842,COC1=CC(=CC2=C1OC(C2CO)C3=CC(=C(C=C3)O)OC)C=CCO,NPJICTMALKLTFW-OFUAXYCQSA-N
+,,"4-[(1e)-3-hydroxyprop-1-en-1-yl]-6-methoxycyclohexa-1,3,5-trien-2-yn-1-ol",536.438201786,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CCCC2(C)C)C)C)C,HNEUSEOVPDUIEU-NSCUHMNNSA-N
+Lignans,Neolignans,dehydrodiconiferyl alcohol,360.15728848,COC1=C(C=C2C(C(C(CC2=C1)CO)CO)C3=CC(=C(C=C3)O)OC)O,KUSXBOZNRPQEON-ONEGZZNKSA-N
+Steroids,Stigmastane steroids,"2-{[1-(5-ethyl-6-methylheptan-2-yl)-9a,11a-dimethyl-1h,2h,3h,3ah,3bh,4h,6h,7h,8h,9h,9bh,10h,11h-cyclopenta[a]phenanthren-7-yl]oxy}-6-(hydroxymethyl)oxane-3,4,5-triol",576.43898963,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC5C(C(C(C(O5)CO)O)O)O)C)C)C(C)C,NPJICTMALKLTFW-UHFFFAOYSA-N
+Carotenoids (C40),"Carotenoids (C40, β-β)",β-carotene,302.15180918,C1=CC(=CC(=C1)O)CC(CO)C(CC2=CC(=CC=C2)O)CO,OENHQHLEOONYIE-JLTXGRSLSA-N
+Lignans,Furofuranoid lignans,"4-[(1s,3as,4r,6as)-4-(4-hydroxy-3-methoxyphenyl)-hexahydrofuro[3,4-c]furan-1-yl]-2-methoxyphenol",168.078644241,COC1=C(C=CC(=C1)CCO)O,HGXBRUKMWQGOIE-FQZPYLGXSA-N
+Fatty acyls,Fatty alcohols,octacosan-14-ol,600.41786026,CC(=CC=CC=C(C)C=CC=C(C)C1C=C2C(CC(CC2(O1)C)O)(C)C)C=CC=C(C)C=CC34C(CC(CC3(O4)C)O)(C)C,JBKPMCOKLJUDQU-UHFFFAOYSA-N
+Lignans,Dibenzylbutane lignans,secoisolariciresinol,464.09547607,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O,PUETUDUXMCLALY-HOTGVXAUSA-N
+Flavonoids,Flavonols,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-{[(2s,3r,4r,5r,6s)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}chromen-4-one",298.12050905,C1C(C(C(=O)O1)CC2=CC(=CC=C2)O)CC3=CC(=CC=C3)O,OVSQVDMCBVZWGM-LVWULRLVSA-N
+Lignans,Arylnaphthalene and aryltetralin lignans,(+)-isolariciresinol,412.370516150,CCC(CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C,OGFXBIXJCWAUCH-KPHUOKFYSA-N
+Steroids,Stigmastane steroids,β-sitostenone,410.448766469,CCCCCCCCCCCCCCC(CCCCCCCCCCCCC)O,RUVUHIUYGJBLGI-XJZKHKOHSA-N
+Flavonoids,Flavonols,nictoflorin,594.15847025,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O)O)O,RTATXGUCZHCSNG-QHWHWDPRSA-N
+Flavonoids,Flavonols,astragalin,448.10056145,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O,JPUKWEQWGBDDQB-QSOFNFLRSA-N
+Carotenoids (C40),"Carotenoids (C40, β-β)","2-[(2z,4e,6e,8e,10e,12e,14e,16e)-17-{4-hydroxy-2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl}-6,11,15-trimethylheptadeca-2,4,6,8,10,12,14,16-octaen-2-yl]-4,4,7a-trimethyl-2,5,6,7-tetrahydro-1-benzofuran-6-ol",192.04225873,COC1=C(C=C2C(=C1)C=CC(=O)O2)O,YNNRPBRNWWIQPQ-XRRKGYRYSA-N
+Lignans,Dibenzylbutyrolactone lignans,enterolactone,360.15728848,COC1=C(C=C2C(C(C(CC2=C1)CO)CO)C3=CC(=C(C=C3)O)OC)O,HVDGDHBAMCBBLR-WMLDXEAASA-N
+Coumarins,Simple coumarins,scopoletin,362.17293854,COC1=C(C=CC(=C1)CC(CO)C(CC2=CC(=C(C=C2)O)OC)CO)O,RODXRVNMMDRFIK-UHFFFAOYSA-N
+Glycerophospholipids,Glycerophosphoethanolamines,o-phosphoethanolamine; bis(nonane),400.370516150,CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,WQTCTMDKQPZJES-UHFFFAOYSA-N
+Steroids,Ergostane steroids,"(1r,3as,3bs,7s,9bs)-1-[(2r,5r)-5,6-dimethylheptan-2-yl]-9a,11a-dimethyl-1h,2h,3h,3ah,3bh,4h,6h,7h,8h,9h,9bh,10h,11h-cyclopenta[a]phenanthren-7-ol",397.33209601,CCCCCCCCC.CCCCCCCCC.C(COP(=O)(O)O)N,SGNBVLSWZMBQTH-SSKRYHHQSA-N
+Steroids,Ergostane steroids,campesterol,376.15220310,COC1=C(C=CC(=C1)C2C(C(C(O2)C3=CC(=C(C=C3)O)OC)CO)CO)O,SGNBVLSWZMBQTH-UHFFFAOYSA-N
+Lignans,Furanoid lignans,"4-[(2r,3s,4s,5r)-5-(4-hydroxy-3-methoxyphenyl)-3,4-bis(hydroxymethyl)oxolan-2-yl]-2-methoxyphenol",344.16237386,COC1=C(C=CC(=C1)CC2COCC2CC3=CC(=C(C=C3)O)OC)O,NYDZRKZVFLLTLO-NSMLZSOPSA-N
+Lignans,Furanoid lignans,"4-{[(3r,4r)-4-[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-3-yl]methyl}-2-methoxyphenol",299.11338904,CC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)O,ROGUIJKVZZROIQ-HOTGVXAUSA-N
+Histidine alkaloids,Imidazole alkaloids,1h-imidazole-5-ethanamine,610.15338487,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,NTYJJOPFIAHURM-UHFFFAOYSA-N
+Flavonoids,Flavonols,3-rutinosyl quercetin,400.370516150,CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,IKGXIBQEEMLURG-NVPNHPEKSA-N
+,,lysophosphatidylcholine,456.36034539,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C,RYCNUMLMNKHWPZ-SNVBAGLBSA-N
+Triterpenoids,Oleanane triterpenoids,oleanolic acid,111.079647300,C1=C(NC=N1)CCN,MIJYXULNPSFWEK-GTOFXWBISA-N

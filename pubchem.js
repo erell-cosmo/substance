@@ -18,8 +18,9 @@ async function wait(durationInSeconds) {
 }
 
 async function fetchChunkCompoundsProperties(compoundsChunk) {
+  const inchiKeyList = _.map(compoundsChunk, 'inchikey').join(',');
   const {data} = await axios.get(
-    `${PUBCHEM_API_SEARCH_URL}/InChIKey/${compoundsChunk.join(',')}/property/InChIKey,CanonicalSMILES,ExactMass/JSON`,
+    `${PUBCHEM_API_SEARCH_URL}/InChIKey/${inchiKeyList}/property/CanonicalSMILES,ExactMass/JSON`,
     {
       baseURL: PUBCHEM_API_BASE_URL,
       timeout: 2000

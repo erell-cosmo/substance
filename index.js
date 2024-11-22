@@ -1,3 +1,4 @@
+const _ = require('lodash');
 const debug = require('debug')('substance');
 
 const csv = require('@fast-csv/format');
@@ -10,11 +11,27 @@ async function main(plantName) {
   try {
     const compounds = await lotusLib.fetchCompounds(plantName);
     const compoundsProperties = await pubchemLib.fetchCompoundsProperties(compounds);
+    const compoundsWithProperties = _.zipWith(
+      compounds,
+      compoundsProperties,
+      (compound, compoundProperties) => Object.assign(
+        {},
+        compound,
+        compoundProperties
+      )
+    );
     const csvOptions = {
-      headers: true
+      headers: [
+        'superClass',
+        'class',
+        'name',
+        'ExactMass',
+        'CanonicalSMILES',
+        'inchikey',
+      ]
     };
-
-    csv.write(compoundsProperties, csvOptions).pipe(process.stdout);
+    debug('Write csv to stdout')
+    csv.write(compoundsWithProperties, csvOptions).pipe(process.stdout);
   } catch (err) {
     console.error(err);
     process.exit(1);

@@ -1,0 +1,2 @@
+GET https://lotus.naturalproducts.net/api/search/simple
+  ?query=urtica%20dioica
