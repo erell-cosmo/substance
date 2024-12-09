@@ -23,7 +23,7 @@ async function fetchCompounds(plantName) {
       params: {
         query: plantName
       },
-      timeout: 10000
+      timeout: 20000
     }
   );
   const compounds = data.naturalProducts.map(compound => buildLotusCompound(compound));
